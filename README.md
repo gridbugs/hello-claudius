@@ -10,5 +10,5 @@ $ curl -fsSL https://get.dune.build/install | sh
 $ dune pkg lock
 
 # Run!
-# dune exec ./main.exe
+$ dune exec ./main.exe
 ```
